@@ -12,4 +12,6 @@ Third Project : A reccursive implementation of the HMM (Hidden Markov Models) vi
 
 Reading Report : Independent Component Analysis.
 
+Final exam : see the course website
+
 The grade I got : 

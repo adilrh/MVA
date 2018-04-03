@@ -7,5 +7,6 @@ Practical Exercise : Expectation-Maximisation algorithm –  (Adaptative) Import
 
 Final Project : Online EM Algorithm for Hidden Markov Models by Olivier Cappé.
 
+Final Exam : see the course website
 
 The grade I got : 12.25 / 20
