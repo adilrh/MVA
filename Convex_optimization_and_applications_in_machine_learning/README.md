@@ -8,8 +8,10 @@ First Homework : Theoretical homework about Convex functions and problems useles
 
 Second Project : Theoretical homework about Duality useless to upload it here.
 
-Third Project :  An implementation of the interior point method, the damped Newton method and barrier method to solve the SVM problem.
+Third Project : An implementation of the interior point method, the damped Newton method and barrier method to solve the SVM problem.
 
 Final exam : see the course website
 
 The grade I got : 20 / 20
+
+NB : please use the HTML version for full access.
