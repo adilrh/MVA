@@ -14,4 +14,4 @@ Reading Report : Independent Component Analysis.
 
 Final exam : see the course website
 
-The grade I got : 
+The grade I got : 18 / 20
