@@ -12,4 +12,4 @@ Third Project : Reinforcement Learning with Function Approximation : On-Policy R
 
 Final Project : Deep RL for financial portfolio management. References : Zhengyao Jiang, Dixing Xu and Jinjun Liang
 
-The grade I got : 
+The grade I got : 9/10 in the first three homeworks and 6/10 in the final project --> 15/20
