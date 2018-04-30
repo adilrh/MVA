@@ -7,4 +7,4 @@ Homework : Hough Transform / char-grams application
 
 Final Exam : See the course website
 
-The grade I got : 
+The grade I got :  15/20
