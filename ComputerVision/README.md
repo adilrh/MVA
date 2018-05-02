@@ -12,4 +12,4 @@ Third Assignement :  Neural networks : Training a fully connected neural network
 
 Final Project : Training CNNs using synthetic Images of People.
 
-The grade I got : 
+The grade I got :  14/20
