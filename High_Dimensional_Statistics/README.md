@@ -15,4 +15,4 @@ Two labs in R : Prediction of algal efflorescence /  kNN, Decision Trees and Sto
 
 Final Exam : See the course website
 
-The grade I got : 
+The grade I got :  20/20
